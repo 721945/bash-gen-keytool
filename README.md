@@ -1,1 +1,4 @@
-# bash-gen-keytool
+# Bash keytool generation
+```bash
+bash gen-android-keytool.sh
+```
