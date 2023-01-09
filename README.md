@@ -1,5 +1,5 @@
 # Bash keytool generation
----
+
 ## Before using this command make sure you already set PATH and JAVA_HOME
 If you haven't set just export this command. (For Mac Silicon)
 ```
